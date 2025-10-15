@@ -56,7 +56,9 @@ The model converged stably with consistent performance across both metrics, ensu
 
 ---
 
-![Dice Score Graph](images/graph.png)
+![Dice Score Graph](graph.png)
+*Figure 1: IOU/Dice score progression during training.*
+
 
 
 
