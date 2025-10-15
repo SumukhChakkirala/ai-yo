@@ -43,8 +43,6 @@ The goal of this project is to provide a reliable, high-resolution segmentation 
 | **Validation Split** | Stratified (3,388 train / 599 validation) |
 | **Image Size** | 1920×1080 (Full Resolution) |
 
----
-
 ## 🚀 Training Summary
 
 | Metric | Value |
@@ -57,5 +55,8 @@ The goal of this project is to provide a reliable, high-resolution segmentation 
 The model converged stably with consistent performance across both metrics, ensuring robustness on unseen data.
 
 ---
+
+![Dice Score Graph](images/graph.png)
+
 
 
