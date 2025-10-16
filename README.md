@@ -61,7 +61,7 @@ The model converged stably with consistent performance across both metrics, ensu
 
 
 ## 🧪 Qualitative Results
-## 🧪 Qualitative Results
+
 
 | **Test Image** | **Model Segmentation Output** |
 |-----------------|-------------------------------|
