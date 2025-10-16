@@ -60,5 +60,20 @@ The model converged stably with consistent performance across both metrics, ensu
 *Figure 1: IOU/Dice score progression during training.*
 
 
+## 🧪 Qualitative Results
+## 🧪 Qualitative Results
+
+| **Test Image** | **Model Segmentation Output** |
+|-----------------|-------------------------------|
+| <img src="testing-images/EDDF07C1_4FNLImage4.png" width="320"> | <img src="result-images/fig2.png" width="420"> |
+| <img src="testing-images/EDDF25L1_2FNLImage2.png" width="320"> | <img src="result-images/fig1.png" width="420"> |
+| <img src="testing-images/EDDF36_1_5LDImage2.png" width="320"> | <img src="result-images/fig5.png" width="420"> |
+| <img src="testing-images/EDDF36_1_8FNLImage1.png" width="320"> | <img src="result-images/fig4.png" width="420"> |
+| <img src="testing-images/ETOU07_1_1FNLImage1.png" width="320"> | <img src="result-images/fig3.png" width="420"> |
+
+*Figure 2: Visual comparison of runway segmentation results on test images.(red highlight represents the runway)*
+
+
+
 
 
